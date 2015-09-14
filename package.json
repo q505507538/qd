@@ -17,8 +17,14 @@
   },
   "homepage": "https://github.com/q505507538/qd#readme",
   "devDependencies": {
+    "babel-core": "^5.8.24",
+    "babel-loader": "^5.3.2",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^2.3.1",
-    "gulp-sass": "^2.0.4"
+    "gulp-sass": "^2.0.4",
+    "webpack": "^1.12.1"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
   }
 }
